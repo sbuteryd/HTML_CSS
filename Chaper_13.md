@@ -10,18 +10,39 @@
 
 2、border 
     
-    1、width :知道sold 的大小，相框的大小
-    2、border-style :sold 相框的风格
-    4、color  相框的颜色。
+    *   width :知道sold 的大小，相框的大小
+    *   border-style :sold 相框的风格
+    *   color  相框的颜色。
 
 3、padding 
 
-    1、相框里面的距离，可以说使用 上、右、下、左 ,内部内容和border之间的距离。
+    *   相框里面的距离，可以说使用 上、右、下、左 ,内部内容和border之间的距离。
 
 4、margin
     
-    1、相框之间的距离,可以说使用 上、右、下、左，居中使用margin auto
+    *   相框之间的距离,可以说使用 上、右、下、左，居中使用margin auto
     
 5、相框的弯曲度
 
-    1、border-radius: 弯曲度。
+    *   border-radius: 弯曲度。
+ 
+6、max-width max-height min-width min-width
+
+    *   max-width 800px 最大到多少
+    *   min-width 300px 最小到多少
+
+7、display  转换元素，内联元素转换成快，或者快转换成 内联元素
+
+        内联元素：内联元素就是在一行内，
+        块元素：每一个块都占一行
+        block:转换成块元素
+        inline:转换成内联元素
+        inline-block: 可以像内联元素一样可以，每个元素又保持联块都样式。
+        
+    
+8、shadow 
+
+        * 1px 左右 1px上下 1px 清晰度  color 颜色
+     
+      
+   
