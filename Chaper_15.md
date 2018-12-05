@@ -55,7 +55,9 @@ clear: left:
          overflow: auto;
          width: 100%;
          
-         用于解决父亲目录变成一条线，使用float的时候。
+         用于解决父亲目录变成一条线，使用float的时候，如果没有使用overflow 那么
+         就等于没有使用div 父目录，如果没有使用overflow 会变长一条线，背景等都无法设置
+         
          
 float 多列解决问题：
     
