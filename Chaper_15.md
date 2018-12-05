@@ -19,8 +19,14 @@ absolute :
 
       没有位置的概念，我的理解就是，没有家的限制，这个位置不存在。
       
+补充 fixed ：
+    
+    fix：固定的意思，就是在位置上不变，要结合 z-index使用。
+    
 
-以上是用 position
+
+
+以上是用 position 
 
 
 float： 结合来 absolute和relative 和 inline-block类似。
@@ -44,4 +50,16 @@ clear: left:
         就是去除float：注意方向。
                       
     
+补充父元素错误问题：
+
+         overflow: auto;
+         width: 100%;
+         
+         用于解决父亲目录变成一条线，使用float的时候。
+         
+float 多列解决问题：
+    
+        要设置宽度，flaot的位置 margin 用于之间的距离         
+     
+
         
