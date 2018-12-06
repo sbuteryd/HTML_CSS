@@ -20,7 +20,7 @@ max-widht min-with ：
     
     min-width 300px 那么里面内容 p 到300px就成来固定，里面内容就是300px。
     
-max-widht min-with ： 
+max-heigth min-height ： 
 
      some max-width
     
