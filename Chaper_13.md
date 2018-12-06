@@ -20,7 +20,11 @@ max-widht min-with ：
     
     min-width 300px 那么里面内容 p 到300px就成来固定，里面内容就是300px。
     
+max-widht min-with ： 
 
+     some max-width
+    
+    
 display  转换元素 
 
         display inline , 
@@ -96,4 +100,28 @@ margin :
         
 
        
+补充：
+    
+    margin 0 auto  让元素居中
+    
+ 
+补充2：
+
+    shadow:
+        box-shadow: 10px 10px  13px black;  上下，左右、清晰度、颜色、
+        box-shadow: 10px 10px  上下、左右
         
+补充3
+
+    border-radius:100px 200px 300px 500px：specified_direction
+    border-radius: default
+    
+
+补充4
+
+    border：可以根据border背景可以使用图片
+    
+
+补充5:
+
+    溢出:overflow: scroll; 就是高度超过了如何处理，隐藏，还是变成滚动条。
