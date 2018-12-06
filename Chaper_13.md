@@ -32,6 +32,7 @@ display  转换元素
         block:就是把内联元素转换成块元素的性质。
         
         inline-block：就是像内联元素那样可以变成一行，而且又继承联块元素的独立占一个位置。
+        none ：不显示，
 
 
 
@@ -125,3 +126,7 @@ margin :
 补充5:
 
     溢出:overflow: scroll; 就是高度超过了如何处理，隐藏，还是变成滚动条。
+    
+补充6 
+
+ visibility: hidden;
