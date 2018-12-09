@@ -6,4 +6,4 @@ You can also try these examples online at http://www.htmlandcssbook.com/code-sam
 
 clone the Russell li github now.
 
-create new branch.
+create new branch. checkout xie
